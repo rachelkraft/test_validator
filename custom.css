@@ -1,0 +1,28 @@
+.btn {
+    margin: 20px;
+}
+.well {
+    padding: 7px;
+}
+.panel-borderless {
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.borderless{
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+
+
+ .row [class*='col-'] {
+      background-color: #ffeeee;
+      background-clip: content-box;
+      min-height: 20px;
+}
+
+.h5{
+    color:blue !important;
+}
